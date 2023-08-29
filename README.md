@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Realtime App</h3>
   <p align="center">
-    <a href="https://github.com/rrizalyuniar/RealtimeApp-FE"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rizalyuniar/RealtimeApp-FE"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://realtime-app-fe.vercel.app/">View Demo</a>
     ·
@@ -66,7 +66,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Front End Repo
 ```
-git clone https://github.com/rrizalyuniar/RealtimeApp-BE.git
+git clone https://github.com/rizalyuniar/RealtimeApp-BE.git
 ```
 - Go To Folder Repo
 ```
@@ -133,9 +133,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend RealtimeApp`](https://github.com/rrizalyuniar/RealtimeApp-BE)
+:rocket: [`Backend RealtimeApp`](https://github.com/rizalyuniar/RealtimeApp-BE)
 
-:rocket: [`Frontend RealtimeApp`](https://github.com/rrizalyuniar/RealtimeApp-FE)
+:rocket: [`Frontend RealtimeApp`](https://github.com/rizalyuniar/RealtimeApp-FE)
 
 :rocket: [`Demo RealtimeApp`](https://realtime-app-fe.vercel.app/)
 
@@ -144,4 +144,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : rizalyuniar123@gmail.com
 
-Project Link: [https://github.com/rrizalyuniar/RealtimeApp-FE/](https://github.com/rrizalyuniar/RealtimeApp-FE/)
+Project Link: [https://github.com/rizalyuniar/RealtimeApp-FE/](https://github.com/rizalyuniar/RealtimeApp-FE/)
